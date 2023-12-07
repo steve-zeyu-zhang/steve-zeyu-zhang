@@ -25,6 +25,9 @@
 
 
 <h3> Education </h3>
+
+- _**07.2021 - 06.2025**_ $~~~~~$ Bachelor of Science (Advanced) (Honours), _The Australian National University_
+- _**07.2022**_ $~~~~~~~~~~~~~~~~~~~~~~~$ Visiting Student, _Imperial College London_
 -->
 
 
