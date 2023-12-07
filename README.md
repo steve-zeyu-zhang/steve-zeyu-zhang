@@ -12,7 +12,7 @@
 > **SegReg: Segmenting OARs by Registering MR Images and CT Annotations**<br>
 > [**Zeyu Zhang**](https://steve-zeyu-zhang.github.io), [Xuyin Qi](https://www.linkedin.com/in/xuyin-q-29672524a/), [Bowen Zhang](https://www.adelaide.edu.au/directory/b.zhang), [Biao Wu](https://scholar.google.com/citations?user=Y3SBBWMAAAAJ&hl=en), [Hien Le](https://iconcancercentre.com.au/doctor/hien-le), [Bora Jeong](https://www.linkedin.com/in/bora-jeong-5a3177231/), [Minh-son To](https://www.flinders.edu.au/people/minhson.to), [Richard Hartley](https://users.cecs.anu.edu.au/~hartley/)<sup>✉</sup><br>
 > [[Webpage](https://steve-zeyu-zhang.github.io/SegReg/)] [[arXiv](https://arxiv.org/abs/2311.06956)] [[GitHub](https://github.com/steve-zeyu-zhang/SegReg)] [[BibTeX](https://steve-zeyu-zhang.github.io/SegReg/webpage/scholar.html)]<br>
-> _In Submission_
+> _Preprint_
 
 
 > **BHSD: A 3D Multi-class Brain Hemorrhage Segmentation Dataset**<br>
