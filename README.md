@@ -3,8 +3,9 @@
 
 <h1> Zeyu Zhang </h1>
 
+<!--
 <h3> Biography </h3>
-
+-->
 
 <h3> Publications </h3>
 
@@ -19,11 +20,12 @@
 > [[Paper](https://doi.org/10.1007/978-3-031-45673-2_15)] [[arXiv](https://arxiv.org/abs/2308.11298.pdf)] [[GitHub](https://github.com/White65534/BHSD)] [[Dataset](https://www.kaggle.com/datasets/stevezeyuzhang/bhsd-dataset)] [[BibTeX](https://github.com/White65534/BHSD/tree/main#citation)]<br>
 > _MLMI 2023_
 
+<!--
 <h3> Research Experience </h3>
 
 
 <h3> Education </h3>
-
+-->
 
 
 
