@@ -41,7 +41,8 @@
 > **A Deep Learning Approach to Diabetes Diagnosis**<br>
 > [**Zeyu Zhang**](https://steve-zeyu-zhang.github.io), [Khandaker Asif Ahmed](https://scholar.google.com/citations?user=rUJ9DVAAAAAJ&hl=en), [Md Rakibul Hasan](https://staffportal.curtin.edu.au/staff/profile/view/rakibul-hasan-145a1046/), [Md Zakir Hossain](https://sites.google.com/view/zakirh?pli=1)<br>
 > [_**ACIIDS 2024**_](https://aciids.pwr.edu.pl/2024/)<br>
-> [![Website](https://img.shields.io/badge/Website-Demo-fedcba?style=flat-square)](https://steve-zeyu-zhang.github.io/DiabetesDiagnosis) [![GitHub](https://img.shields.io/badge/GitHub-Code-1f883d?style=flat-square&logo=github)](https://github.com/steve-zeyu-zhang/DiabetesDiagnosis)
+> [![Website](https://img.shields.io/badge/Website-Demo-fedcba?style=flat-square)](https://steve-zeyu-zhang.github.io/DiabetesDiagnosis) [![GitHub](https://img.shields.io/badge/GitHub-Code-1f883d?style=flat-square&logo=github)](https://github.com/steve-zeyu-zhang/DiabetesDiagnosis)<br>
+> <img src="asset/diabetes.svg" width="250">
 
 <!--
 <h3> Research Experience </h3>
