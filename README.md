@@ -17,7 +17,7 @@
 
 <h3> Publications </h3>
 
-> **A Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM**<br>
+> **Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM**<br>
 > [**Zeyu Zhang**](https://steve-zeyu-zhang.github.io)<sup>\*</sup>, [Liyang Liu](https://www.linkedin.com/in/akideliu/)<sup>\*</sup>, [Ian Reid](https://mbzuai.ac.ae/study/faculty/ian-reid/), [Richard Hartley](http://users.cecs.anu.edu.au/~hartley/), [Bohan Zhuang](https://bohanzhuang.github.io/), [Hao Tang](https://ha0tang.github.io/)<sup>✉</sup><br>
 > _**Preprint**_<br>
 > [![Website](https://img.shields.io/badge/Website-Demo-fedcba?style=flat-square)](https://steve-zeyu-zhang.github.io/MotionMamba/) [![GitHub](https://img.shields.io/badge/GitHub-Code-1f883d?style=flat-square&logo=github)](https://github.com/steve-zeyu-zhang/MotionMamba)<br>
