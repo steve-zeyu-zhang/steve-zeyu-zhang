@@ -15,7 +15,7 @@
 
 
 
-<h3> Publications </h3>
+<h3> Selected Publications </h3>
 
 > **Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM**<br>
 > [**Zeyu Zhang**](https://steve-zeyu-zhang.github.io)<sup>\*</sup>, [Akide Liu](https://www.linkedin.com/in/akideliu/)<sup>\*</sup>, [Ian Reid](https://mbzuai.ac.ae/study/faculty/ian-reid/), [Richard Hartley](http://users.cecs.anu.edu.au/~hartley/), [Bohan Zhuang](https://bohanzhuang.github.io/), [Hao Tang](https://ha0tang.github.io/)<sup>✉</sup><br>
@@ -30,6 +30,9 @@
 > _**Preprint**_<br>
 > [![OpenReview](https://img.shields.io/badge/OpenReview-8c1b13?style=flat-square)](https://openreview.net/forum?id=NF5uhYkI9C) [![GitHub](https://img.shields.io/badge/GitHub-Code-1f883d?style=flat-square&logo=github)](https://github.com/steve-zeyu-zhang/ThinThickAdapter) [![BibTeX](https://img.shields.io/badge/BibTeX-Citation-eeeeee?style=flat-square)](https://steve-zeyu-zhang.github.io/ThinThickAdapter/website/scholar.html)<br>
 > <img src="asset/tta.svg" width="250">
+
+<details>
+  <summary><b>More Publications</b></summary>
 
 > **SegReg: Segmenting OARs by Registering MR Images and CT Annotations**<br>
 > [**Zeyu Zhang**](https://steve-zeyu-zhang.github.io), [Xuyin Qi](https://www.linkedin.com/in/xuyin-q-29672524a/), [Bowen Zhang](https://www.adelaide.edu.au/directory/b.zhang), [Biao Wu](https://scholar.google.com/citations?user=Y3SBBWMAAAAJ&hl=en), [Hien Le](https://iconcancercentre.com.au/doctor/hien-le), [Bora Jeong](https://www.linkedin.com/in/bora-jeong-5a3177231/), [Zhibin Liao](https://researchers.adelaide.edu.au/profile/zhibin.liao), [Yunxiang Liu](https://www.adelaide.edu.au/directory/yunxiang.liu), [Johan Verjans](https://researchers.adelaide.edu.au/profile/johan.verjans), [Minh-Son To](https://www.flinders.edu.au/people/minhson.to), [Richard Hartley](http://users.cecs.anu.edu.au/~hartley/)<sup>✉</sup><br>
@@ -51,6 +54,8 @@
 > [_**ACIIDS 2024**_](https://aciids.pwr.edu.pl/2024/)<br>
 > [![Website](https://img.shields.io/badge/Website-Demo-fedcba?style=flat-square)](https://steve-zeyu-zhang.github.io/DiabetesDiagnosis) [![arXiv](https://img.shields.io/badge/arXiv-2403.07483-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2403.07483) [![GitHub](https://img.shields.io/badge/GitHub-Code-1f883d?style=flat-square&logo=github)](https://github.com/steve-zeyu-zhang/DiabetesDiagnosis)<br>
 > <img src="asset/diabetes.svg" width="250">
+
+</details>
 
 <!--
 <h3> Research Experience </h3>
