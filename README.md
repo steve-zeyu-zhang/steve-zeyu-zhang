@@ -42,6 +42,12 @@
 > <img src="asset/segreg2.svg" width="250">
 
 
+> **Sine Activated Low-Rank Matrices for Parameter Efficient Learning**<br>
+> [Yiping Ji](https://www.linkedin.com/in/yiping-ji-111b97142/)<sup>\*</sup>, [Hemanth Saratchandran](https://researchers.adelaide.edu.au/profile/hemanth.saratchandran)<sup>\*</sup>, [Cameron Gordon](https://www.linkedin.com/in/camerondgordon), [**Zeyu Zhang**](https://steve-zeyu-zhang.github.io), [Simon Lucey](https://researchers.adelaide.edu.au/profile/simon.lucey)<sup>✉</sup><br>
+> _**Preprint**_<br>
+> [![arXiv](https://img.shields.io/badge/arXiv-2403.19243-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2403.19243) <br>
+> <img src="asset/lowrank.svg" width="250">
+
 
 > **BHSD: A 3D Multi-class Brain Hemorrhage Segmentation Dataset**<br>
 > [Biao Wu](https://scholar.google.com/citations?user=Y3SBBWMAAAAJ&hl=en), [Yutong Xie](https://v3alab.github.io/author/yutong-xie/), [**Zeyu Zhang**](https://steve-zeyu-zhang.github.io), [Jinchao Ge](https://github.com/jinchaogjc), [Kaspar Yaxley](https://radiopaedia.org/users/kaspar-lewis-yaxley?lang=us), [Suzan Bahadir](https://au.linkedin.com/in/suzan-bahadir-57870416b), [Qi Wu](http://www.qi-wu.me/), [Yifan Liu](https://scholar.google.com/citations?user=ksQ4JnQAAAAJ&hl=zh-CN), [Minh-Son To](https://www.flinders.edu.au/people/minhson.to)<sup>✉</sup><br>
