@@ -31,14 +31,14 @@
 > <img src="asset/tta.svg" width="250">
 
 
+<details>
+  <summary><b>More Publications</b></summary>
+
 > **Motion Avatar: Generate Human and Animal Avatars with Arbitrary Motion**<br>
 > [**Zeyu Zhang**](https://steve-zeyu-zhang.github.io)<sup>\*</sup>, [Yiran Wang](https://github.com/u7079256)<sup>\*</sup>, [Biao Wu](https://scholar.google.com/citations?user=Y3SBBWMAAAAJ&hl=en)<sup>\*</sup>, [Shuo Chen](https://www.linkedin.com/in/shuo-chen-7747a7246/), [Zhiyuan Zhang](https://github.com/Tiooo111), [Shiya Huang](https://github.com/gekelly), [Wenbo Zhang](https://zwbx.github.io/), [Meng Fang](https://mengf1.github.io/), [Ling Chen](https://profiles.uts.edu.au/Ling.Chen), [Yang Zhao](https://yangyangkiki.github.io/)<sup>✉</sup><br>
 > _**Preprint**_<br>
 > [![Website](https://img.shields.io/badge/Website-Demo-fedcba?style=flat-square)](https://steve-zeyu-zhang.github.io/MotionAvatar/) [![arXiv](https://img.shields.io/badge/arXiv-2405.11286-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2405.11286) [![GitHub](https://img.shields.io/badge/GitHub-Code-1f883d?style=flat-square&logo=github)](https://github.com/steve-zeyu-zhang/MotionAvatar) [![Papers With Code](https://img.shields.io/badge/Papers%20With%20Code-555555.svg?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgd2lkdGg9IjUxMiIgIGhlaWdodD0iNTEyIiA+PHBhdGggZD0iTTg4IDEyOGg0OHYyNTZIODh6bTE0NCAwaDQ4djI1NmgtNDh6bS03MiAxNmg0OHYyMjRoLTQ4em0xNDQgMGg0OHYyMjRoLTQ4em03Mi0xNmg0OHYyNTZoLTQ4eiIgc3Ryb2tlPSIjMjFDQkNFIiBmaWxsPSIjMjFDQkNFIj48L3BhdGg+PHBhdGggZD0iTTEwNCAxMDRWNTZIMTZ2NDAwaDg4di00OEg2NFYxMDR6bTMwNC00OHY0OGg0MHYzMDRoLTQwdjQ4aDg4VjU2eiIgc3Ryb2tlPSIjMjFDQkNFIiBmaWxsPSIjMjFDQkNFIj48L3BhdGg+PC9zdmc+)](https://paperswithcode.com/paper/motion-avatar-generate-human-and-animal) [![BibTeX](https://img.shields.io/badge/BibTeX-Citation-eeeeee?style=flat-square)](https://steve-zeyu-zhang.github.io/MotionAvatar/static/scholar.html)<br>
 > <img src="https://github.com/steve-zeyu-zhang/MotionAvatar/blob/main/static/images/main-1.svg" width="250">
-
-<details>
-  <summary><b>More Publications</b></summary>
 
 > **JointViT: Modeling Oxygen Saturation Levels with Joint Supervision on Long-Tailed OCTA**<br>
 > [**Zeyu Zhang**](https://steve-zeyu-zhang.github.io), [Xuyin Qi](https://www.linkedin.com/in/xuyin-q-29672524a/), [Mingxi Chen](https://www.linkedin.com/in/mingxi-chen-4b57562a1/), [Guangxi Li](https://github.com/lgX1123), [Ryan Pham](https://www.flinders.edu.au/people/ryan.pham), [Ayub Qassim](https://www.flinders.edu.au/people/ayub.qassim), [Ella Berry](https://www.linkedin.com/in/ella-berry-a2a3aab4/), [Zhibin Liao](https://researchers.adelaide.edu.au/profile/zhibin.liao), [Owen Siggs](https://researchnow.flinders.edu.au/en/persons/owen-siggs-2), [Robert Mclaughlin](https://researchers.adelaide.edu.au/profile/robert.mclaughlin), [Jamie Craig](https://www.flinders.edu.au/people/jamie.craig), [Minh-Son To](https://www.flinders.edu.au/people/minhson.to)<br>
