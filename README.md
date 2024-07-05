@@ -17,20 +17,16 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%40stevezeyuzhang-f84f52?style=flat-square&logo=instagram)](https://www.instagram.com/stevezeyuzhang)
 -->
 
+<h3> Biography </h3>
+
+Zeyu Zhang is an undergraduate researcher under the guidance of <a href="http://users.cecs.anu.edu.au/~hartley/">Prof. Richard Hartley</a> and <a href="https://mbzuai.ac.ae/study/faculty/ian-reid/">Prof. Ian Reid</a>. His research interests are rooted in computer vision, focusing on generative 3D modeling and AI for health. Specifically, he is dedicated to advancing efficient and high-quality motion and avatar generation, as well as 3D medical imaging segmentation and representation learning. With extensive experience across multiple research disciplines, Zeyu actively explores cutting-edge advancements in both the foundational and applied aspects of artificial intelligence. He has also collaborated closely with <a href="https://ha0tang.github.io/">Dr. Hao Tang</a> (CMU), <a href="https://bohanzhuang.github.io/">Prof. Bohan Zhuang</a> (ZJU), <a href="https://yangyangkiki.github.io/index.html">Dr. Yang Zhao</a> (La Trobe), <a href="https://scholar.google.com/citations?user=NIc4qPsAAAAJ&hl=en">Dr. Minh-Son To</a> (FHMRI), and many others. Zeyu is actively seeking opportunities and collaborations in both academia and industry.
+
 <h3> News </h3>
 <b>(07/02/2024)</b> &#127881; Our paper <a href="https://steve-zeyu-zhang.github.io/MotionMamba/"><b>Motion Mamba</b></a> has been accepted to <a href="https://eccv2024.ecva.net/"><b style="color: OrangeRed;">ECCV 2024</b></a>!<br>
 <b>(06/18/2024)</b> &#127881; Our paper <a href="https://steve-zeyu-zhang.github.io/JointViT/"><b>JointViT</b></a> has been selected as <b style="color: red;">oral presentation</b> at <a href="https://miua2024.github.io/"><b>MIUA 2024</b></a>!<br>
 <b>(05/14/2024)</b> &#127881; Our paper <a href="https://steve-zeyu-zhang.github.io/JointViT/"><b>JointViT</b></a> has been accepted to <a href="https://miua2024.github.io/"><b>MIUA 2024</b></a>!<br>
 <b>(03/13/2024)</b> &#127881; Our paper <a href="https://steve-zeyu-zhang.github.io/MotionMamba/"><b>Motion Mamba</b></a> has been featured in <a href="https://twitter.com/_akhaliq/status/1767750847239262532"><b>Daily Papers</b></a>!<br>
 <b>(02/10/2024)</b> &#127881; Our paper <a href="https://steve-zeyu-zhang.github.io/SegReg/"><b>SegReg</b></a> has been accepted to <a href="https://biomedicalimaging.org/2024/"><b>ISBI 2024</b></a>!
-
-<h3> Biography </h3>
-
-Zeyu Zhang is an undergraduate researcher under the guidance of <a href="http://users.cecs.anu.edu.au/~hartley/">Prof. Richard Hartley</a> and <a href="https://mbzuai.ac.ae/study/faculty/ian-reid/">Prof. Ian Reid</a>. His research interests are rooted in computer vision, focusing on generative 3D modeling and AI for health. Specifically, he is dedicated to advancing efficient and high-quality motion and avatar generation, as well as 3D medical imaging segmentation and representation learning. With extensive experience across multiple research disciplines, Zeyu actively explores cutting-edge advancements in both the foundational and applied aspects of artificial intelligence. He has also collaborated closely with <a href="https://ha0tang.github.io/">Dr. Hao Tang</a> (CMU), <a href="https://bohanzhuang.github.io/">Prof. Bohan Zhuang</a> (ZJU), <a href="https://yangyangkiki.github.io/index.html">Dr. Yang Zhao</a> (La Trobe), <a href="https://scholar.google.com/citations?user=NIc4qPsAAAAJ&hl=en">Dr. Minh-Son To</a> (FHMRI), and many others. Zeyu is actively seeking opportunities and collaborations in both academia and industry.
-
-
-
-
 
 
 <h3> Selected Publications </h3>
