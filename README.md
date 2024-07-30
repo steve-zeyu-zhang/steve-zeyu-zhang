@@ -66,12 +66,17 @@ Zeyu Zhang is an undergraduate researcher under the guidance of <a href="http://
 > [![OpenReview](https://img.shields.io/badge/OpenReview-8c1b13?style=flat-square)](https://openreview.net/forum?id=NF5uhYkI9C) [![GitHub](https://img.shields.io/badge/GitHub-Code-1f883d?style=flat-square&logo=github)](https://github.com/steve-zeyu-zhang/ThinThickAdapter) [![BibTeX](https://img.shields.io/badge/BibTeX-Citation-eeeeee?style=flat-square)](https://steve-zeyu-zhang.github.io/ThinThickAdapter/website/scholar.html)<br>
 > <img src="asset/tta.svg" width="250">
 
-
 > **Sine Activated Low-Rank Matrices for Parameter Efficient Learning**<br>
 > [Yiping Ji](https://www.linkedin.com/in/yiping-ji-111b97142/)<sup>\*</sup>, [Hemanth Saratchandran](https://researchers.adelaide.edu.au/profile/hemanth.saratchandran)<sup>\*</sup>, [Cameron Gordon](https://www.linkedin.com/in/camerondgordon), [**Zeyu Zhang**](https://steve-zeyu-zhang.github.io), [Simon Lucey](https://researchers.adelaide.edu.au/profile/simon.lucey)<sup>✉</sup><br>
 > _**Preprint**_<br>
 > [![arXiv](https://img.shields.io/badge/arXiv-2403.19243-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2403.19243) <br>
 > <img src="asset/lowrank.svg" width="250">
+
+> **XLIP: Cross-modal Attention Masked Modelling for Medical Language-Image Pre-Training**<br>
+> [Biao Wu](https://scholar.google.com/citations?user=Y3SBBWMAAAAJ&hl=en)<sup>\*</sup>, [Yutong Xie](https://v3alab.github.io/author/yutong-xie/)<sup>\*</sup>, [**Zeyu Zhang**](https://steve-zeyu-zhang.github.io), [Minh Hieu Phan](https://scholar.google.com/citations?user=gSEw8EsAAAAJ&hl=en), [Qi Chen](https://scholar.google.com/citations?user=OgKU77kAAAAJ&hl=zh-CN), [Ling Chen](https://profiles.uts.edu.au/Ling.Chen), [Qi Wu](http://www.qi-wu.me/)<sup>✉</sup><br>
+> _**Preprint**_<br>
+> [![arXiv](https://img.shields.io/badge/arXiv-2407.19546-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2407.19546) [![GitHub](https://img.shields.io/badge/GitHub-Code-1f883d?style=flat-square&logo=github)](https://github.com/White65534/XLIP) [![Papers With Code](https://img.shields.io/badge/Papers%20With%20Code-555555.svg?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgd2lkdGg9IjUxMiIgIGhlaWdodD0iNTEyIiA+PHBhdGggZD0iTTg4IDEyOGg0OHYyNTZIODh6bTE0NCAwaDQ4djI1NmgtNDh6bS03MiAxNmg0OHYyMjRoLTQ4em0xNDQgMGg0OHYyMjRoLTQ4em03Mi0xNmg0OHYyNTZoLTQ4eiIgc3Ryb2tlPSIjMjFDQkNFIiBmaWxsPSIjMjFDQkNFIj48L3BhdGg+PHBhdGggZD0iTTEwNCAxMDRWNTZIMTZ2NDAwaDg4di00OEg2NFYxMDR6bTMwNC00OHY0OGg0MHYzMDRoLTQwdjQ4aDg4VjU2eiIgc3Ryb2tlPSIjMjFDQkNFIiBmaWxsPSIjMjFDQkNFIj48L3BhdGg+PC9zdmc+)](https://paperswithcode.com/paper/xlip-cross-modal-attention-masked-modelling) [![BibTeX](https://img.shields.io/badge/BibTeX-Citation-eeeeee?style=flat-square)](https://github.com/White65534/XLIP/tree/main#citation)<br>
+> <img src="https://github.com/steve-zeyu-zhang/steve-zeyu-zhang.github.io/blob/main/image/xlip.svg" width="250">
 
 
 > **BHSD: A 3D Multi-class Brain Hemorrhage Segmentation Dataset**<br>
