@@ -13,9 +13,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/steve-zeyu-zhang/)
 [![YouTube](https://img.shields.io/badge/YouTube-%40SteveZeyuZhang-ff0000?style=flat-square&logo=youtube)](https://www.youtube.com/@SteveZeyuZhang) 
 [![Twitter](https://img.shields.io/badge/Twitter-%40SteveZeyuZhang-1d9bf0?style=flat-square&logo=x)](https://twitter.com/SteveZeyuZhang) 
+[![Instagram](https://img.shields.io/badge/Instagram-%40stevezeyuzhang-f84f52?style=flat-square&logo=instagram)](https://www.instagram.com/stevezeyuzhang)
 <!--
 [![Facebook](https://img.shields.io/badge/Facebook-0866ff?style=flat-square&logo=facebook)](https://www.facebook.com/people/Zeyu-Zhang/pfbid02QuFaCexpedSSmQog5JBrYvHXFYJFo8cv22jagEfaHmKg2MkD9Cj5KheW72YtPwgVl) 
-[![Instagram](https://img.shields.io/badge/Instagram-%40stevezeyuzhang-f84f52?style=flat-square&logo=instagram)](https://www.instagram.com/stevezeyuzhang)
 -->
 
 <h3> Biography </h3>
