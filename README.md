@@ -1,8 +1,4 @@
-<!--
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steve-zeyu-zhang&hide=HTML" alt="https://github.com/anuraghazra/github-readme-stats" />
--->
-
-<h1> Zeyu Zhang </h1>
+<div align="center"><h1>👋 Zeyu Zhang (Steve)<br>
 
 <!--
 [![Homepage](https://img.shields.io/badge/Homepage-555555.svg?style=flat-square&logo=data:image/svg%2bxml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyBmaWxsPSIjZmZmZmZmIiB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBpZD0iaG9tZS1hbHQtMyIgY2xhc3M9Imljb24gZ2x5cGgiIHN0cm9rZT0iI2ZmZmZmZiI+Cg08ZyBpZD0iU1ZHUmVwb19iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCIvPgoNPGcgaWQ9IlNWR1JlcG9fdHJhY2VyQ2FycmllciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cg08ZyBpZD0iU1ZHUmVwb19pY29uQ2FycmllciI+Cg08cGF0aCBkPSJNMjEuNzEsMTAuMjlsLTktOWExLDEsMCwwLDAtMS40MiwwbC05LDlhMSwxLDAsMCwwLS4yMSwxLjA5QTEsMSwwLDAsMCwzLDEySDR2OWExLDEsMCwwLDAsMSwxSDhhMSwxLDAsMCwwLDEtMVYxNWExLDEsMCwwLDEsMS0xaDRhMSwxLDAsMCwxLDEsMXY2YTEsMSwwLDAsMCwxLDFoM2ExLDEsMCwwLDAsMS0xVjEyaDFhMSwxLDAsMCwwLC45Mi0uNjJBMSwxLDAsMCwwLDIxLjcxLDEwLjI5WiIvPgoNPC9nPgoNPC9zdmc+)](https://zeyuzhang.webflow.io/) 
@@ -17,6 +13,10 @@
 <!--
 [![Facebook](https://img.shields.io/badge/Facebook-0866ff?style=flat-square&logo=facebook)](https://www.facebook.com/people/Zeyu-Zhang/pfbid02QuFaCexpedSSmQog5JBrYvHXFYJFo8cv22jagEfaHmKg2MkD9Cj5KheW72YtPwgVl) 
 -->
+
+![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=steve-zeyu-zhang&show_icons=true&theme=radical)
+
+</h1></div>
 
 <h3> Biography </h3>
 
