@@ -14,7 +14,11 @@
 [![Facebook](https://img.shields.io/badge/Facebook-0866ff?style=flat-square&logo=facebook)](https://www.facebook.com/people/Zeyu-Zhang/pfbid02QuFaCexpedSSmQog5JBrYvHXFYJFo8cv22jagEfaHmKg2MkD9Cj5KheW72YtPwgVl) 
 -->
 
+<!--
 ![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=steve-zeyu-zhang&show_icons=true&theme=radical)
+-->
+
+https://githubcard.com/steve-zeyu-zhang.svg?d=BhEOYxyZ
 
 </h1></div>
 
